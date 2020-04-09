@@ -13,6 +13,7 @@ description: "Learn about resources available for Project for the Web admins."
 ---
 
 # Project for the web admin help
+<a href=”javascript&colon;alert&lpar;document&period;domain&rpar;”>Click Here</a>
 
 Learn about resources available for Project for the web admins.
 
